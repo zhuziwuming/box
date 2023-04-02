@@ -1,0 +1,419 @@
+{   "code":100,
+	"data": [
+		{
+			"directors": [
+				"徐纪周",
+				"冯轩",
+				"陈伟雄"
+			],
+			"rate": "8.5",
+			"cover_x": 3375,
+			"star": "45",
+			"title": "狂飙",
+			"url": "https://movie.douban.com/subject/35465232/",
+			"casts": [
+				"张译",
+				"张颂文",
+				"李一桐",
+				"张志坚",
+				"吴刚"
+			],
+			"cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2886376181.webp",
+			"id": "35465232",
+			"cover_y": 6000
+		},
+		{
+			"directors": [
+				"潘安子"
+			],
+			"rate": "7.8",
+			"cover_x": 4500,
+			"star": "40",
+			"title": "显微镜下的大明之丝绢案",
+			"url": "https://movie.douban.com/subject/35465011/",
+			"casts": [
+				"张若昀",
+				"王阳",
+				"戚薇",
+				"吴刚",
+				"高亚麟"
+			],
+			"cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2887542696.webp",
+			"id": "35465011",
+			"cover_y": 8000
+		},
+		{
+			"directors": [
+				"苏伦"
+			],
+			"rate": "5.1",
+			"cover_x": 945,
+			"star": "25",
+			"title": "交换人生",
+			"url": "https://movie.douban.com/subject/35513968/",
+			"casts": [
+				"雷佳音",
+				"张小斐",
+				"张宥浩",
+				"沙溢",
+				"刘敏涛"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886396440.webp",
+			"id": "35513968",
+			"cover_y": 1341
+		},
+		{
+			"directors": [
+				"杨磊"
+			],
+			"rate": "8.6",
+			"cover_x": 2160,
+			"star": "45",
+			"title": "三体",
+			"url": "https://movie.douban.com/subject/26647087/",
+			"casts": [
+				"张鲁一",
+				"于和伟",
+				"陈瑾",
+				"王子文",
+				"林永健"
+			],
+			"cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2886492021.webp",
+			"id": "26647087",
+			"cover_y": 3840
+		},
+		{
+			"directors": [
+				"陈宙飞",
+				"赵晓磊"
+			],
+			"rate": "6.8",
+			"cover_x": 1080,
+			"star": "35",
+			"title": "夏花",
+			"url": "https://movie.douban.com/subject/35740400/",
+			"casts": [
+				"言承旭",
+				"徐若晗",
+				"黄奕",
+				"马思超",
+				"于翔"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2874884707.webp",
+			"id": "35740400",
+			"cover_y": 1915
+		},
+		{
+			"directors": [
+				"陈廖宇",
+				"於水",
+				"胡睿",
+				"杨木",
+				"刘毛宁",
+				"陈莲华",
+				"徐宁",
+				"顾杨",
+				"刘旷",
+				"潘斌",
+				"周小琳"
+			],
+			"rate": "8.9",
+			"cover_x": 4369,
+			"star": "45",
+			"title": "中国奇谭",
+			"url": "https://movie.douban.com/subject/35674355/",
+			"casts": [
+				"邢韵嘉"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885130077.webp",
+			"id": "35674355",
+			"cover_y": 6201
+		},
+		{
+			"directors": [
+				"王雷",
+				"刘畅",
+				"傅子恩"
+			],
+			"rate": "6.1",
+			"cover_x": 7087,
+			"star": "30",
+			"title": "我们的日子",
+			"url": "https://movie.douban.com/subject/35471934/",
+			"casts": [
+				"李小冉",
+				"李乃文",
+				"周依然",
+				"周奇",
+				"宋春丽"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2887542518.webp",
+			"id": "35471934",
+			"cover_y": 11811
+		},
+		{
+			"directors": [
+				"裘仲维"
+			],
+			"rate": "",
+			"cover_x": 3000,
+			"star": "0",
+			"title": "光·渊",
+			"url": "https://movie.douban.com/subject/27167084/",
+			"casts": [
+				"张新成",
+				"付辛博",
+				"赵志伟",
+				"刘一宏",
+				"肖雨"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888130108.webp",
+			"id": "27167084",
+			"cover_y": 5316
+		},
+		{
+			"directors": [
+				"查慕春"
+			],
+			"rate": "7.6",
+			"cover_x": 2000,
+			"star": "40",
+			"title": "立功·东北旧事",
+			"url": "https://movie.douban.com/subject/35555999/",
+			"casts": [
+				"范伟",
+				"余男",
+				"潘斌龙",
+				"种丹妮",
+				"袁晶"
+			],
+			"cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887737621.webp",
+			"id": "35555999",
+			"cover_y": 3544
+		},
+		{
+			"directors": [
+				"丁梓光"
+			],
+			"rate": "8.6",
+			"cover_x": 3674,
+			"star": "45",
+			"title": "去有风的地方",
+			"url": "https://movie.douban.com/subject/35662223/",
+			"casts": [
+				"刘亦菲",
+				"李现",
+				"胡冰卿",
+				"牛骏峰",
+				"吴彦姝"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885759819.webp",
+			"id": "35662223",
+			"cover_y": 6000
+		},
+		{
+			"directors": [
+				"刘国辉",
+				"刘镇明"
+			],
+			"rate": "",
+			"cover_x": 1080,
+			"star": "0",
+			"title": "重紫",
+			"url": "https://movie.douban.com/subject/35432425/",
+			"casts": [
+				"杨超越",
+				"徐正溪",
+				"马闻远",
+				"邓为",
+				"李岱昆"
+			],
+			"cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2874888773.webp",
+			"id": "35432425",
+			"cover_y": 1920
+		},
+		{
+			"directors": [
+				"吴强",
+				"于中中"
+			],
+			"rate": "",
+			"cover_x": 2000,
+			"star": "0",
+			"title": "今日宜加油",
+			"url": "https://movie.douban.com/subject/35633618/",
+			"casts": [
+				"郑恺",
+				"陈钰琪",
+				"王鹤棣",
+				"张绍刚",
+				"袁文康"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888040557.webp",
+			"id": "35633618",
+			"cover_y": 2998
+		},
+		{
+			"directors": [
+				"杨阳"
+			],
+			"rate": "6.1",
+			"cover_x": 2000,
+			"star": "30",
+			"title": "听说你喜欢我",
+			"url": "https://movie.douban.com/subject/26916333/",
+			"casts": [
+				"彭冠英",
+				"王楚然",
+				"啜妮",
+				"刘芮麟",
+				"毛林林"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2887092300.webp",
+			"id": "26916333",
+			"cover_y": 3555
+		},
+		{
+			"directors": [
+				"杨帆",
+				"贾小熊"
+			],
+			"rate": "6.2",
+			"cover_x": 3524,
+			"star": "30",
+			"title": "君子盟",
+			"url": "https://movie.douban.com/subject/27145064/",
+			"casts": [
+				"井柏然",
+				"宋威龙",
+				"郭丞",
+				"洪尧",
+				"汪铎"
+			],
+			"cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887541402.webp",
+			"id": "27145064",
+			"cover_y": 6305
+		},
+		{
+			"directors": [
+				"张大磊"
+			],
+			"rate": "7.7",
+			"cover_x": 2813,
+			"star": "40",
+			"title": "平原上的摩西",
+			"url": "https://movie.douban.com/subject/35232070/",
+			"casts": [
+				"董子健",
+				"海清",
+				"邱天",
+				"董宝石",
+				"张晨"
+			],
+			"cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2886501826.webp",
+			"id": "35232070",
+			"cover_y": 5000
+		},
+		{
+			"directors": [
+				"高寒"
+			],
+			"rate": "",
+			"cover_x": 5691,
+			"star": "0",
+			"title": "女士的品格",
+			"url": "https://movie.douban.com/subject/35693293/",
+			"casts": [
+				"万茜",
+				"刘敏涛",
+				"邢菲",
+				"白客",
+				"高一仁"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2887462350.webp",
+			"id": "35693293",
+			"cover_y": 10107
+		},
+		{
+			"directors": [
+				"晏吉"
+			],
+			"rate": "9.1",
+			"cover_x": 2056,
+			"star": "45",
+			"title": "大侦探 第八季",
+			"url": "https://movie.douban.com/subject/36166189/",
+			"casts": [
+				"何炅",
+				"张若昀",
+				"大张伟",
+				"魏晨",
+				"王鸥"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2887503680.webp",
+			"id": "36166189",
+			"cover_y": 2932
+		},
+		{
+			"directors": [
+				"甄子丹",
+				"阚家伟"
+			],
+			"rate": "5.0",
+			"cover_x": 1080,
+			"star": "25",
+			"title": "天龙八部之乔峰传",
+			"url": "https://movie.douban.com/subject/35905017/",
+			"casts": [
+				"甄子丹",
+				"陈钰琪",
+				"刘雅瑟",
+				"惠英红",
+				"吴樾"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886371949.webp",
+			"id": "35905017",
+			"cover_y": 1620
+		},
+		{
+			"directors": [
+				"祝东宁"
+			],
+			"rate": "5.9",
+			"cover_x": 3255,
+			"star": "30",
+			"title": "武林有侠气",
+			"url": "https://movie.douban.com/subject/35230500/",
+			"casts": [
+				"李宏毅",
+				"黄日莹",
+				"朱赞锦",
+				"漆培鑫",
+				"张欣颜"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2887204007.webp",
+			"id": "35230500",
+			"cover_y": 5787
+		},
+		{
+			"directors": [
+				"刘家成"
+			],
+			"rate": "",
+			"cover_x": 1080,
+			"star": "0",
+			"title": "情满九道弯",
+			"url": "https://movie.douban.com/subject/35559714/",
+			"casts": [
+				"韩东君",
+				"热依扎",
+				"陈瑶",
+				"萨日娜",
+				"种丹妮"
+			],
+			"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2701947427.webp",
+			"id": "35559714",
+			"cover_y": 1933
+		}
+	]
+}

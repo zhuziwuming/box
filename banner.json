@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "竹子影视",
+      "pic": "https://i4.3conline.com/images/piclib/201007/28/batch/1/65236/128025055910321o685bsd8.jpg",
+      "url": "https://www.baidu.com",
+      "type": "web",     
+      "desc": "",
+      "show": true
+    },
+    {
+      "name": "韩国女团",
+      "pic": "http://www.gzkyz.com.cn/img/20210925/ade52c622f90ddfc1b0fbc16e4125d48.jpg",
+      "url": "https://www.baidu.com",
+      "type": "web",     
+       "desc": "",
+      "show": true
+    }
+  ]
+}
