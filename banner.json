@@ -1,9 +1,17 @@
 {
   "data": [
     {
-      "name": "竹子影视",
-      "pic": "https://i4.3conline.com/images/piclib/201007/28/batch/1/65236/128025055910321o685bsd8.jpg",
-      "url": "https://www.baidu.com",
+      "name": "竹子音乐",
+      "pic": "https://imgcdn.simsoft.top/1680422797-IMG_20230402_155940.jpg",
+      "url": "https://m3916865w0.oicp.vip/music/index.php",
+      "type": "web",     
+      "desc": "",
+      "show": true
+    },
+    {
+      "name": "影视接口",
+      "pic": "https://imgcdn.simsoft.top/1680422797-IMG_20230402_155940.jpg",
+      "url": "https://imgcdn.simsoft.top/1678463768-tvbox.png",
       "type": "web",     
       "desc": "",
       "show": true
@@ -12,7 +20,7 @@
       "name": "韩国女团",
       "pic": "http://www.gzkyz.com.cn/img/20210925/ade52c622f90ddfc1b0fbc16e4125d48.jpg",
       "url": "https://www.baidu.com",
-      "type": "web",     
+      "type": "search",     
        "desc": "",
       "show": true
     }
